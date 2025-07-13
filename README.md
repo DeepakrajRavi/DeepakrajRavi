@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰️ I’m currently working on<br>DevOps and Cloud projects. You can explore all my work at deepakravi.vercel.app<br><br>🤝 I’m looking to collaborate on<br>Cloud automation, infrastructure as code, and open-source DevOps tools.<br><br>🧠 I’m looking for help with<br>Advanced Kubernetes patterns and CI/CD pipeline optimizations.<br><br>🌱 I’m currently learning<br>Cloud-native architectures, GitOps, and serverless computing.<br><br>💬 Ask me about<br>Python, DevOps, AWS, Terraform, Kubernetes<br><br>⚡ Fun fact<br>I love turning complex infrastructure setups into one-click deployments!<br><br>📫 How to reach me<br>deepakravi1810@gmail.com
+🛰️ I’m currently working on<br>DevOps and Cloud projects. You can explore all my work at deepakravi.dev<br><br>🤝 I’m looking to collaborate on<br>Cloud automation, infrastructure as code, and open-source DevOps tools.<br><br>🧠 I’m looking for help with<br>Advanced Kubernetes patterns and CI/CD pipeline optimizations.<br><br>🌱 I’m currently learning<br>Cloud-native architectures, GitOps, and serverless computing.<br><br>💬 Ask me about<br>Python, DevOps, AWS, Terraform, Kubernetes<br><br>⚡ Fun fact<br>I love turning complex infrastructure setups into one-click deployments!<br><br>📫 How to reach me<br>deepakravi1810@gmail.com
 
 
 ## 🌐 Socials:
